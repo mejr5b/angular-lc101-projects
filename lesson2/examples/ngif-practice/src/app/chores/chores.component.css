@@ -1,5 +1,5 @@
 .chores {
-    color: #ff4f33;
+    color: lightsalmon;
 }
 
 .doneChores {
@@ -15,4 +15,7 @@ img {
     height: auto;
     display: block;
     margin: auto;
+}
+.treat{
+    color: lightpink
 }
